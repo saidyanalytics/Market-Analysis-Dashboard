@@ -6,8 +6,8 @@ A professional, fully-interactive business intelligence dashboard built using **
 
 ## 📸 Live Preview
 
-![Dashboard Screenshot](./Screenshot.png)  
-🎬 **Video Walkthrough:** [Watch Demo on YouTube](https://your-video-link.com)
+(https://drive.google.com/file/d/1QYL3CZukHsf30uQfKW9W2-YYTvKFu9um/view?usp=sharing)
+🎬 **Video Walkthrough:(https://drive.google.com/file/d/1UGWPreHprEXgYWD02PqXit9saRx8Rbpq/view?usp=sharing)
 
 > *(Replace these with your actual screenshot and video link)*
 
@@ -63,4 +63,41 @@ The objective of this project is to help businesses and marketing teams make inf
 - Focused analysis on **Laptop leads vs other products**
 - Year-wise DAU tracking from 2020 to 2022
 
+
 ---
+
+
+## 💼 Business Value
+
+This dashboard provides:
+- Clear visibility into marketing channel performance
+- Actionable insights on product demand
+- Lead generation analysis for ad teams
+- Strategic guidance for product and regional focus
+
+Ideal for:
+- **Marketing Analysts**
+- **Business Intelligence Teams**
+- **E-commerce Strategy Planners**
+
+---
+
+## 👨‍💼 About the Author
+
+**De H Saidy**  
+🎓 CSE Graduate – Daffodil International University  
+🔍 Data Analyst | Power BI Developer | SQL Specialist
+
+I’m passionate about transforming data into impactful stories. With hands-on experience in Excel, SQL, and Power BI, I create dashboards that empower decision-making.
+
+📧 Email: saidyanalyst@gmail.com  
+🌐 Portfolio Website: *Coming Soon*  
+📌 Open to remote jobs & freelance projects
+
+---
+
+## ⭐ Support
+
+If you found this project helpful:
+- 🌟 Give it a **star** on GitHub  
+- 📩 Reach out for **collaborations** or hiring
