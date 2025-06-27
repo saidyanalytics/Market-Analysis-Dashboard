@@ -6,10 +6,13 @@ A professional, fully-interactive business intelligence dashboard built using **
 
 ## 📸 Live Preview
 
+
+**Screenshot**
 (https://drive.google.com/file/d/1QYL3CZukHsf30uQfKW9W2-YYTvKFu9um/view?usp=sharing)
+
+**Video**
 🎬 **Video Walkthrough:(https://drive.google.com/file/d/1UGWPreHprEXgYWD02PqXit9saRx8Rbpq/view?usp=sharing)
 
-> *(Replace these with your actual screenshot and video link)*
 
 ---
 
