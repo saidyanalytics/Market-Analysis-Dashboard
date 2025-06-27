@@ -1,73 +1,66 @@
 # 📊 Market Analysis Dashboard
 
-An advanced, interactive business intelligence dashboard designed to uncover key market insights from user behavior, advertising performance, and product engagement trends. Built with **Power BI**, this project showcases strong capabilities in data modeling, SQL integration, and dynamic visualization — providing a holistic view of digital marketing effectiveness across categories and regions.
+A professional, fully-interactive business intelligence dashboard built using **Power BI**, designed to analyze user behavior, marketing performance, and category trends across regions. This project demonstrates strong expertise in **data cleaning, SQL analysis, data modeling**, and **dashboard design** — turning raw data into clear, actionable insights.
 
 ---
 
-## 📌 Objective
+## 📸 Live Preview
 
-The goal of this project is to enable **data-driven decision-making** for marketing and product strategy by analyzing **Daily Active Users (DAU)** across:
-- Marketing sources
-- Product categories
-- Geographical regions
-- User interactions with ads and lead generation
+![Dashboard Screenshot](./Screenshot.png)  
+🎬 **Video Walkthrough:** [Watch Demo on YouTube](https://your-video-link.com)
+
+> *(Replace these with your actual screenshot and video link)*
+
+---
+
+## 🎯 Project Goal
+
+The objective of this project is to help businesses and marketing teams make informed decisions by understanding:
+- Which sources bring the most active users
+- Which product categories drive engagement
+- Regional user distribution
+- The impact of ads on lead generation and conversion
 
 ---
 
 ## 🧰 Tools & Technologies
 
-- **Excel** – Data import, cleaning, and preprocessing  
-- **SQL** – Querying and transformation for analytical modeling  
-- **Power BI** – Dashboard design, data modeling, and visual reporting  
+| Tool      | Purpose                          |
+|-----------|----------------------------------|
+| **Excel** | Data import, cleaning & shaping |
+| **SQL**   | Querying and analytical filtering|
+| **Power BI** | Data modeling & visualization  |
 
 ---
 
-## 🔍 Key Highlights
+## 🔍 Key Insights Delivered
 
-### 📈 Engagement & Conversion Metrics
-- **Average Engagement Rate:** 95.06%
-- **Average Conversion Rate:** 65.17%
-- **DAU with 1 Ad Viewed:** 32.28 million
-- **DAU with 1 Lead Generated:** 19 million
+### 🧠 Engagement & Conversion
+- **Engagement Rate:** `95.06%`
+- **Conversion Rate:** `65.17%`
+- **DAU with 1 Ad Viewed:** `32.28M`
+- **DAU with 1 Lead:** `19M`
 
-### 🧭 DAU by Source
-- Direct traffic: **14.5M**
-- Organic Search: **9.7M**
-- Other (Email, Display, Paid Search): Combined impact visualized via bar & pie charts
+### 🔗 Traffic Source Analysis
+- Highest DAU via **Direct (14.5M)** and **Organic Search (9.7M)**
+- Detailed breakdown via bar and pie charts: Email, Display, Paid Search, etc.
 
-### 🛒 DAU by Product Category
-- Top-performing categories include:
-  - **Mobile Phones:** 5.4M
-  - **Electronics & TV Speakers:** 3.9M
-  - **Computers & Tablets:** 3.2M
-- Long-tail product performance visualized using ranked bar & line charts
+### 🛒 Category Performance
+- Most engaged category: **Mobile Phones (5.4M DAU)**
+- Others include: TV Speakers, Computers, Tablets, Fashion, Watches
 
-### 🌍 DAU by Region
+### 🌍 Regional Analysis
 - **Ho Chi Minh City:** 18M  
 - **Hà Nội:** 14M  
 - **Đà Nẵng:** 13M  
-- Regional comparison with percentage breakdown for strategic insights
+- Regional trends help tailor marketing strategies
 
-### 🕒 Trend Over Time
-- Time series analysis of DAU with lead generation (2020–2022)
-- Clear insights into seasonal drops and ad impact periods
+### 📊 Time Series Trends
+- Lead generation trends over 3 years (2020–2022)
+- Visual patterns for growth, dips, and marketing impact
 
-### 💻 Product Ad Performance
-- Comparative analysis of **Laptop DAU vs Other Products** over multiple years
-- Useful for evaluating ad effectiveness across categories
-
-
-
----
-
-
-
-## 💼 Business Use Cases
-
-This dashboard can support decision-makers in:
-- Identifying high-performing marketing channels
-- Evaluating product-specific user engagement
-- Optimizing regional ad strategies
-- Tracking campaign impact and conversion efficiency
+### 💻 Ad Performance Comparison
+- Focused analysis on **Laptop leads vs other products**
+- Year-wise DAU tracking from 2020 to 2022
 
 ---
