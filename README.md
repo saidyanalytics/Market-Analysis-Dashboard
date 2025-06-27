@@ -56,22 +56,11 @@ The goal of this project is to enable **data-driven decision-making** for market
 - Comparative analysis of **Laptop DAU vs Other Products** over multiple years
 - Useful for evaluating ad effectiveness across categories
 
----
 
-## 🗂️ Project Structure
-
-📁 Market-Analysis-Dashboard/
-├── 📊 Screenshot.png
-├── 📁 Data/ # Cleaned Excel/CSV source files
-├── 📁 SQL/ # SQL scripts for data extraction & filtering
-├── 📁 PowerBI/ # Power BI .pbix file
-└── README.md
-
-yaml
-Copy
-Edit
 
 ---
+
+
 
 ## 💼 Business Use Cases
 
