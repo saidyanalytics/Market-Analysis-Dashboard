@@ -79,7 +79,7 @@ This dashboard provides:
 - Clear visibility into marketing channel performance
 - Actionable insights on product demand
 - Lead generation analysis for ad teams
-- Strategic guidance for product and regional focus
+- Strategic guidance for product and regional focus.
 
 Ideal for:
 - **Marketing Analysts**
@@ -92,13 +92,13 @@ Ideal for:
 
 **De H Saidy**  
 🎓 CSE Graduate – Daffodil International University  
-🔍 Data Analyst | Power BI Developer | SQL Specialist
+🔍 Data Analyst | Power BI Developer | SQL Specialist.
 
 I’m passionate about transforming data into impactful stories. With hands-on experience in Excel, SQL, and Power BI, I create dashboards that empower decision-making.
 
 📧 Email: saidyanalyst@gmail.com  
 🌐 Portfolio Website: *Coming Soon*  
-📌 Open to remote jobs & freelance projects
+📌 Open to remote jobs & freelance projects.
 
 ---
 
