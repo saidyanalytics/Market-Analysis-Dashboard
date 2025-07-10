@@ -23,7 +23,7 @@ A professional, fully-interactive business intelligence dashboard built using **
 
 The objective of this project is to help businesses and marketing teams make informed decisions by understanding:
 - Which sources bring the most active users
-- Which product categories drive engagement
+- Which product categories drive engagement 
 - Regional user distribution
 - The impact of ads on lead generation and conversion
 
