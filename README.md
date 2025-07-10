@@ -7,7 +7,7 @@ A professional, fully-interactive business intelligence dashboard built using **
 
 ---
 
-## 📸 Live Preview
+## 📸 Live Preview 
 
 
 **Screenshot**
