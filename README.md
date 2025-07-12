@@ -59,7 +59,7 @@ The objective of this project is to help businesses and marketing teams make inf
 - **Ho Chi Minh City:** 18M  
 - **Hà Nội:** 14M  
 - **Đà Nẵng:** 13M  
-- Regional trends help tailor marketing strategies
+- Regional trends help tailor marketing strategies 
 
 ### 📊 Time Series Trends
 - Lead generation trends over 3 years (2020–2022)
