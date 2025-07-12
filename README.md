@@ -65,7 +65,7 @@ The objective of this project is to help businesses and marketing teams make inf
 - Lead generation trends over 3 years (2020–2022)
 - Visual patterns for growth, dips, and marketing impact
 
-### 💻 Ad Performance Comparison
+### 💻 Ad Performance Comparison 
 - Focused analysis on **Laptop leads vs other products**
 - Year-wise DAU tracking from 2020 to 2022
 
