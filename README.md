@@ -53,8 +53,8 @@ The objective of this project is to help businesses and marketing teams make inf
 - Detailed breakdown via bar and pie charts: Email, Display,Paid Search, etc.
 
 ### 🛒 Category Performance
-- Most engaged category: **Mobile Phones (5.4M DAU)**
-- Others include: TV Speakers, Computers, Tablets, Fashion, Watches
+- Most engaged category : **Mobile Phones (5.4M DAU)**
+- Others include : TV Speakers, Computers, Tablets, Fashion, Watches
 
 ### 🌍 Regional Analysis
 - **Ho Chi Minh City:** 18M  
