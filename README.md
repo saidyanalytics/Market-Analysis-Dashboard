@@ -50,7 +50,7 @@ The objective of this project is to help businesses and marketing teams make inf
 
 ### 🔗 Traffic Source Analysis
 - Highest DAU via **Direct (14.5M)** and **Organic Search (9.7M)**
-- Detailed breakdown via bar and pie charts: Email, Display, Paid Search, etc.
+- Detailed breakdown via bar and pie charts: Email, Display,Paid Search, etc.
 
 ### 🛒 Category Performance
 - Most engaged category: **Mobile Phones (5.4M DAU)**
