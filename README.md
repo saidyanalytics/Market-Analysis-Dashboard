@@ -1,6 +1,7 @@
 # 📊 Market Analysis Dashboard
 
-A professional, fully-interactive business intelligence dashboard built using **Power BI**, designed to analyze user behavior, marketing performance, and category trends across regions. This project demonstrates strong expertise in **data cleaning, SQL analysis, data modeling**, and **dashboard design** — turning raw data into clear, actionable insights.
+A professional, fully-interactive business intelligence dashboard built using **Power BI**, designed to analyze user behavior, marketing performance, and category trends across regions. This project demonstrates strong expertise in **data cleaning, SQL analysis, data modeling**, and **dashboard design** — turning raw data into clear, actionable insights. 
+
 ![Screenshot 2025-06-28 005713](https://github.com/user-attachments/assets/9d6ffb42-da6c-4db6-a6fb-c626eda83124) 
 
 
